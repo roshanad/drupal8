@@ -25,4 +25,6 @@ content:
   links:
     weight: 100
     region: content
-hidden: {  }
+hidden:
+  field_testimonial_description: true
+  field_testimonial_image: true

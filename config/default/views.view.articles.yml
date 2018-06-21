@@ -48,7 +48,7 @@ display:
       pager:
         type: some
         options:
-          items_per_page: 5
+          items_per_page: 8
           offset: 0
       style:
         type: default
@@ -152,6 +152,7 @@ display:
       empty: {  }
       relationships: {  }
       arguments: {  }
+      display_extenders: {  }
     cache_metadata:
       max-age: -1
       contexts:
